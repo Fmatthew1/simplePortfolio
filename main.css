@@ -55,6 +55,8 @@ body {
 
 .par1 {
     font-weight: bolder;
+    font-family: montserrat;
+    color:#007bb5;
 }
 
 img {
@@ -72,7 +74,7 @@ img {
 h2 {
     margin-top: 5px;
     text-align: center;
-    color: #FFF;
+    color: hsl(263, 86%, 49%);
     font-family: 'Open sans';
 
 }
